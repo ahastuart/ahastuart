@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is ahyeon !
+Nice to meet you
 <!--
 **ahastuart/ahastuart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
